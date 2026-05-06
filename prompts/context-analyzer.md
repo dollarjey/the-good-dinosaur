@@ -1,0 +1,1 @@
+Analyze how much context gets loaded up on session start and where it comes from
